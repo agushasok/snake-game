@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+.field {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 450px;
+    height: 600px;
+    background-color: aqua;
+}
+
+.food {
+    background-color: #fa1818;
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+}
+
+.snake {
+    background-color: black;
+}
+
+.score {
+    text-align: center;
+}
